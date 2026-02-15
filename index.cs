@@ -6,7 +6,7 @@ body {
     width: 100%;
     height: 100%;
     background-image: url('https://i.pinimg.com/736x/d7/f4/77/d7f4776a781c167756f6544e19a2de9c.jpg');
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
